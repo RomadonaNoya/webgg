@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "e90c94ab9c37f0608f7afe110dc1f7e6",
+  "assets/AssetManifest.json": "e501c9c09024cec22364891fc36321b9",
 "assets/assets/images/avatar.png": "1abf6ba2ee45279c7d4f994bd4ced645",
 "assets/assets/images/error.png": "792d254da434e94962e6dba593e437fd",
 "assets/assets/images/expired.png": "b7fb4fae35fd9d1e21682591142a98a9",
@@ -11,7 +11,7 @@ const RESOURCES = {
 "assets/assets/images/notconnect.png": "6bc0226327b106ba8df6d2797323538d",
 "assets/assets/images/powerby.png": "688ec26d22cd2cad4db4b155b5df071b",
 "assets/assets/images/progress.gif": "6403cd601259fdaa7ca8664283c3b563",
-"assets/assets/images/qrnotrecognized.PNG": "d37b088f9a3b310d9b42af66ae5003f4",
+"assets/assets/images/qrnotrecognized.png": "e51b64496eef6e9a0442d8f5e46ef01b",
 "assets/assets/images/register.png": "14fc2718dcaf3c91cd725411e4d9952a",
 "assets/assets/images/registerdialog.png": "902b09a653ff7f27daa3e47ff638b116",
 "assets/assets/images/registersuccessdialog.png": "fe88971a6c788fb94b3598abefd1277a",
@@ -26,9 +26,9 @@ const RESOURCES = {
 "favicon.png": "4cd0f0163dd323f326e5281db12e77fc",
 "icons/Icon-192.PNG": "4cd0f0163dd323f326e5281db12e77fc",
 "icons/Icon-512.PNG": "4cd0f0163dd323f326e5281db12e77fc",
-"index.html": "cac2a7accced29b5c462f0514243150d",
-"/": "cac2a7accced29b5c462f0514243150d",
-"main.dart.js": "3ad5ed37f146a4f140ff59c0a712573e",
+"index.html": "5c20f9e91155b6ddfb8b0ce78bb171dc",
+"/": "5c20f9e91155b6ddfb8b0ce78bb171dc",
+"main.dart.js": "6ae02043cbdd45329ebe18fd95c5724b",
 "manifest.json": "870b729a83800895e0d258e0d8c32c81",
 "version.json": "3326ab24dcd7c39816fbc2f2d1462e0e"
 };
